@@ -520,3 +520,33 @@ body {
 .slick-next {
   right: -95px;
 }
+
+.team {
+  padding: 100px 0 130px;
+}
+
+.team-title {
+  margin-bottom: 100px;
+}
+
+.team__items {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.team__name {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #333333;
+  padding: 35px 0 13px;
+}
+
+.team__position {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 16px;
+  color: #373A39;
+}
