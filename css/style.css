@@ -678,3 +678,63 @@ ul.pricing__item {
   margin-bottom: 162px;
   cursor: pointer;
 }
+
+.footer__top {
+  background-color: #333333;
+  padding: 110px 10px 60px;
+  text-align: center;
+}
+
+.footer__logo {
+  display: inline-block;
+  padding: 0 35px 4px;
+  border-bottom: 2px solid #FCBB08;
+  margin-bottom: 70px;
+}
+
+ul.footer__social {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 65px;
+}
+
+.footer__social-list {
+  padding: 0 15px;
+}
+
+.footer__social-link {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.footer__contact {
+  font-size: 14px;
+  line-height: 32px;
+  color: #fff;
+  margin-bottom: 60px;
+}
+
+.footer__contact a {
+  display: block;
+  margin-bottom: 10px 0;
+  color: #fff;
+}
+
+.go-top {
+  display: inline-block;
+}
+
+.footer__copy {
+  padding: 40px 10px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 16px;
+  color: #CCCCCC;
+  background-color: #2A2C2B;
+}
